@@ -1,48 +1,46 @@
-<h2 align="center">Xi Lin</h2>
+<div align="center">
 
-<p align="center">
-  M.S. Robotics @ JHU 丨 WAM Intern @ Huawei<br>
-</p>
+# Xi Lin
 
-<p align="center">
-  <a href="https://xilin03.github.io/">
-    <img src="https://img.shields.io/badge/Homepage-xilin03.github.io-2ea44f?style=for-the-badge&logo=githubpages&logoColor=white" />
-  </a>
-  <a href="https://scholar.google.com/citations?hl=zh-CN&user=JSBomI4AAAAJ">
-    <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/xilin-jhu/">
-    <img src="https://img.shields.io/badge/LinkedIn-xilin--jhu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+**M.S. Robotics @ Johns Hopkins University · Embodied Foundation Models for Robot Manipulation**
 
----
+[![Homepage](https://img.shields.io/badge/Homepage-xilin03.github.io-526d65?style=flat-square)](https://xilin03.github.io/)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Xi_Lin-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=JSBomI4AAAAJ)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-xilin--jhu-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xilin-jhu)
 
-## About
+</div>
 
-I am an M.S. student in Robotics at JHU and a WAM intern at Huawei. Previously, I worked on VLN at JD Explore Academy, WBC at Xiaomi Robotics, and locomotion at Tsinghua AIR and JHU Terradynamics Lab.
+### About
 
-## Selected Work
+I'm an M.S. student in Robotics at Johns Hopkins University. I work on embodied foundation models for robot manipulation, mostly world action models: what a robot's imagined future needs to preserve, how a reasoning agent can read and correct it, and how it can keep improving from the robot's own experience.
 
-* **MORN** — *RAL Under Review, First Author*  
-  Metacognitive object-goal regulation for resource-rational long-horizon navigation.
+- **Now:** leading WASD with Prof. Jiachen Li at Georgia Tech; visiting researcher with Dr. Ji Zhang at the CMU Robotics Institute (agentic VLA)
+- **Incoming:** Research Intern at Meituan · LongCat, embodied foundation model pretraining
+- **Before:** world action model pretraining at Huawei, vision-language navigation at JD Explore Academy, humanoid control at Xiaomi and Tsinghua AIR
+- **Looking for** Fall 2027 Ph.D. positions
 
-* **Dual-Anchoring** — *ECCV 2026, Second Author*  
-  State-drift reduction for vision-language navigation through world-model-supervised anchoring.
+### Selected Work
 
-* **Action-Sensitive WAM Pretraining** — *Ongoing*  
-  Building an egocentric manipulation pretraining pipeline for dexterous-hand videos, latent dynamics, VLM-assisted supervision, and future prediction.
+- **WASD: Writing Agents Steer Dreams**<br>
+  CVPR 2027 (under review) · project lead · [Project Page](https://wasd-cvpr.github.io/)
+- **Utility-WAM: Correcting Future-Induced Action Changes**<br>
+  ICLR 2027 (under review) · [arXiv](https://arxiv.org/abs/2610.39367)
+- **ReSync: Re-Aligning the Two Clocks of Asynchronous World-Action Models**<br>
+  ICLR 2027 (under review) · [arXiv](https://arxiv.org/abs/2609.33944)
+- **Dual-Anchoring: Addressing State Drift in Vision-Language Navigation**<br>
+  ECCV 2026 · [arXiv](https://arxiv.org/abs/2604.17473)
+- **RepNWM: Effective Representation Modeling and Exploitation for Navigation World Action Models**<br>
+  ICLR 2027 (under review)
+- **BAT-Nav: Belief-Based Arbitration and Termination via Remaining Discoverability in Multi-Goal Semantic Navigation**<br>
+  ICRA 2027 (under review) · [arXiv](https://arxiv.org/abs/2605.16932)
 
-## Education
+Full list on [Google Scholar](https://scholar.google.com/citations?user=JSBomI4AAAAJ) and my [homepage](https://xilin03.github.io/).
 
-* **Johns Hopkins University**  
-  M.S. in Robotics, 2025–2027
+### Education
 
-* **Dalian University of Technology**  
-  B.S. in Mechanical Engineering, minoring in Automation, 2021–2025
+- **Johns Hopkins University** · M.S. in Robotics · 2025 – 2027
+- **Dalian University of Technology** · B.S. in Mechanical Engineering (joint program with UC Irvine), Minor in Automation · 2021 – 2025
 
-## Contact
+### Contact
 
-* Homepage: [xilin03.github.io](https://xilin03.github.io/)
-* Email: [xilin03@outlook.com](mailto:xilin03@outlook.com)
-* GitHub: [XiLin03](https://github.com/XiLin03)
+[xilin03.github.io](https://xilin03.github.io/) · xlin49@jh.edu · xilin.shaun@gmail.com
